@@ -34,7 +34,7 @@ The goal is to discover the as-is loan application process, identify customer dr
 
 ## Tech Stack
 - Python 3
-- [pm4py](https://pm4py.fit.fraunhofer.de/) — process mining library
+- pm4py — process mining library
 - pandas
 - Google Colab
 
