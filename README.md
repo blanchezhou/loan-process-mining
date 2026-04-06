@@ -2,7 +2,7 @@
 > Real-world process mining analysis on 1.2M+ banking events using Python & pm4py
 
 ## Overview
-This project applies process mining techniques to the **BPI Challenge 2017** dataset — a real event log from a Dutch bank containing 1,202,267 events across 31,509 loan applications.
+This project applies process mining techniques to the **BPI Challenge 2017** dataset, with a real event log from a Dutch bank containing 1,202,267 events across 31,509 loan applications.
 
 The goal is to discover the as-is loan application process, identify customer drop-off patterns, and generate data-driven recommendations to reduce passive cancellation.
 
@@ -17,7 +17,7 @@ The goal is to discover the as-is loan application process, identify customer dr
 | Avg. rework loop repetitions | **12.8×** |
 | Cancellation timing | Step 31.5 / 35 (~88% completion) |
 
-**Critical insight:** Nearly half of all applicants abandoned the process before completion. Of those who encountered the incomplete-file rework loop (47% of cases), 34.8% eventually cancelled — after being asked to resubmit materials an average of 12.8 times.
+**Critical insight:** Nearly half of all applicants abandoned the process before completion. Of those who encountered the incomplete-file rework loop (47% of cases), 34.8% eventually cancelled after being asked to resubmit materials an average of 12.8 times.
 
 ## Methodology
 
